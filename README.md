@@ -3,8 +3,6 @@
 A relational database system designed to centralize and manage all gym operations, including members, staff, subscriptions, sessions, and services.
 
 ## Team
-- Omar Ahmed
-- Mohamed
 - Amr
 
 ## Tools Used
